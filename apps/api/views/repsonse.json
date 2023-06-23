@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "version": "draft",
+  "features": [
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [2.380383, 48.860248] }, "properties": { "label": "42 Rue Pétion 75011 Paris", "score": 0.55276, "housenumber": "42", "id": "75111_7312_00042", "name": "42 Rue Pétion", "postcode": "75011", "citycode": "75111", "x": 654540.03, "y": 6862424.29, "city": "Paris", "district": "Paris 11e Arrondissement", "context": "75, Paris, Île-de-France", "type": "housenumber", "importance": 0.73661, "street": "Rue Pétion" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [2.368544, 48.858589] }, "properties": { "label": "42 Rue Amelot 75011 Paris", "score": 0.5185764462809918, "housenumber": "42", "id": "75111_0272_00042", "name": "42 Rue Amelot", "postcode": "75011", "citycode": "75111", "x": 653669.97, "y": 6862246.71, "city": "Paris", "district": "Paris 11e Arrondissement", "context": "75, Paris, Île-de-France", "type": "housenumber", "importance": 0.79525, "street": "Rue Amelot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [2.382328, 48.862184] }, "properties": { "label": "42 Rue Servan 75011 Paris", "score": 0.514849173553719, "housenumber": "42", "id": "75111_8941_00042", "name": "42 Rue Servan", "postcode": "75011", "citycode": "75111", "x": 654684.41, "y": 6862638.44, "city": "Paris", "district": "Paris 11e Arrondissement", "context": "75, Paris, Île-de-France", "type": "housenumber", "importance": 0.75425, "street": "Rue Servan" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [2.384669, 48.851767] }, "properties": { "label": "Rue Paul Bert 75011 Paris", "score": 0.5100946280991735, "id": "75111_7123", "name": "Rue Paul Bert", "postcode": "75011", "citycode": "75111", "x": 654847.13, "y": 6861478.82, "city": "Paris", "district": "Paris 11e Arrondissement", "context": "75, Paris, Île-de-France", "type": "street", "importance": 0.70195, "street": "Rue Paul Bert" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [2.374937, 48.857002] }, "properties": { "label": "42 Rue Sedaine 75011 Paris", "score": 0.502906898395722, "housenumber": "42", "id": "75111_8901_00042", "name": "42 Rue Sedaine", "postcode": "75011", "citycode": "75111", "x": 654137.62, "y": 6862066.51, "city": "Paris", "district": "Paris 11e Arrondissement", "context": "75, Paris, Île-de-France", "type": "housenumber", "importance": 0.76727, "street": "Rue Sedaine" } }
+  ],
+  "attribution": "BAN",
+  "licence": "ETALAB-2.0",
+  "query": "42 rue papernest 75011 Paris",
+  "limit": 5
+}
